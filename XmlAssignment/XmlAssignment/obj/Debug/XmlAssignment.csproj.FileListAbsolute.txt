@@ -1,0 +1,9 @@
+C:\Users\Mayank\Documents\UC\Second Flex\XML\First Assignment\XmlAssignment\XmlAssignment\bin\Debug\XmlAssignment.exe.config
+C:\Users\Mayank\Documents\UC\Second Flex\XML\First Assignment\XmlAssignment\XmlAssignment\bin\Debug\XmlAssignment.exe
+C:\Users\Mayank\Documents\UC\Second Flex\XML\First Assignment\XmlAssignment\XmlAssignment\bin\Debug\XmlAssignment.pdb
+C:\Users\Mayank\Documents\UC\Second Flex\XML\First Assignment\XmlAssignment\XmlAssignment\obj\Debug\XmlAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Mayank\Documents\UC\Second Flex\XML\First Assignment\XmlAssignment\XmlAssignment\obj\Debug\XmlAssignment.Properties.Resources.resources
+C:\Users\Mayank\Documents\UC\Second Flex\XML\First Assignment\XmlAssignment\XmlAssignment\obj\Debug\XmlAssignment.csproj.GenerateResource.Cache
+C:\Users\Mayank\Documents\UC\Second Flex\XML\First Assignment\XmlAssignment\XmlAssignment\obj\Debug\XmlAssignment.exe
+C:\Users\Mayank\Documents\UC\Second Flex\XML\First Assignment\XmlAssignment\XmlAssignment\obj\Debug\XmlAssignment.pdb
+C:\Users\Mayank\Documents\UC\Second Flex\XML\First Assignment\XmlAssignment\XmlAssignment\obj\Debug\XmlAssignment.LearnXPath.resources
